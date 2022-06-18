@@ -1,6 +1,6 @@
 ---
 name: Release Plan Template
-about: Release Plan
+about: Utilizando para o planejamento e acompanhemento de um release/milestone.
 title: Release Plan X
 labels: release
 assignees: ''

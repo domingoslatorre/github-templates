@@ -1,8 +1,8 @@
 ---
 name: Sprint Template
-about: Sprint X
+about: Criado na Sprint Planning e utilizado durante a um sprint.
 title: Sprint X
-labels: enhancement
+labels: sprint
 assignees: ''
 
 ---
