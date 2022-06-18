@@ -1,7 +1,7 @@
 ---
-name: sprint-template.md
+name: Sprint Template
 about: Sprint X
-title: ''
+title: Sprint X
 labels: enhancement
 assignees: ''
 
